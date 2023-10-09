@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year graduate student from [School of Chemistry & Materials Science](https://en-chem.nwu.edu.cn/)， [Northwest University (China)](https://english.nwu.edu.cn/). I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) in the past year and focused on silicon-based semiconductor photoelectrocatalytic materials and I hope to continue my research on semiconductors at the doctoral level.
+I am a third-year graduate student from [School of Chemistry & Materials Science](https://en-chem.nwu.edu.cn/)， [Northwest University (China)](https://english.nwu.edu.cn/). I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) in the past year and focused on silicon-based semiconductor photoelectrocatalytic materials. I hope to continue my research on semiconductors at the doctoral level.
 
 A data-driven personal website
 ======
