@@ -36,7 +36,6 @@ DFT calculation<br>
 3D modeling and rendering<br>
 Color grading<br>
 Photojournalist<br>
-Propaganda department minister
 
 Language
 ------
