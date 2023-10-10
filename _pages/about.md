@@ -41,4 +41,4 @@ Language
 Chinese<br>
 English(IELTS Band 7)
 
-[Email](lijiaru@stumail.nwu.edu.cn)/[Wechat](../images/Wechat.png)
+[Email](lijiaru@stumail.nwu.edu.cn)/[Wechat](images/Wechat.png)
