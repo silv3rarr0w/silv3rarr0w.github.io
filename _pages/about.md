@@ -17,7 +17,12 @@ Hefei University of Technology > Materials of Science and Engineering > bachelor
 
 [2] SEP 2021-Now
 Northwest University > Chemistry and Materials Science > master degree in engineering
+* SEP 2017-JUL 2021
+  Hefei University of Technology > Materials of Science and Engineering > bachelor's degree of engineering
 
+* SEP 2021-Now
+  Northwest University > Chemistry and Materials Science > master degree in engineering
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
