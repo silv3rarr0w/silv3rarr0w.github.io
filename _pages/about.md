@@ -15,7 +15,7 @@ Overview
 
 Education
 ------
-[2] SEP 2021-Now<br>
+[2] SEP 2021-Present<br>
 [Northwest University (China)](https://english.nwu.edu.cn/) > Chemistry and Materials Science > master degree in engineering
 
 [1] SEP 2017-JUL 2021<br>
