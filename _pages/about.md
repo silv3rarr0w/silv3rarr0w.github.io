@@ -13,8 +13,11 @@ I am a third-year graduate student from School of Chemistry & Materials Scienceï
 EDUCATION
 ======
 [1] SEP 2017-JUL 2021
+
 Hefei University of Technology > Materials of Science and Engineering > bachelor's degree of engineering
+
 [2] SEP 2021-NOW
+
 Northwest University > Chemistry and Materials Science > master degree in engineering
 
 Getting started
