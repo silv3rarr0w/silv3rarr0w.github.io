@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaru Li"
+  name             : "Jiaru Li(李嘉儒)"
   avatar           : "profile.png"
-  bio              : ""
-  location         : "Xi’an, China"
+  bio              : "Northwest University"
+  location         : "China Xi'an"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lijiaru@stumail.nwu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/silv3rarr0w"
   google_plus      :
   keybase          :
   instagram        :
