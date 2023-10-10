@@ -35,7 +35,8 @@ PEC measurement<br>
 DFT calculation<br>
 3D modeling and rendering<br>
 Color grading<br>
-photojournalist
+Photojournalist<br>
+Propaganda department minister
 
 Language
 ------
