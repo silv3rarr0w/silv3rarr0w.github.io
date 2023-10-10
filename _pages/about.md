@@ -36,10 +36,7 @@ DFT calculation<br>
 3D modeling and rendering<br>
 Color grading
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
 Language
 ------
-Chinese
+Chinese<br>
 English(IELTS Band 7)
