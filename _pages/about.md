@@ -16,7 +16,7 @@ EDUCATION
 
 Hefei University of Technology > Materials of Science and Engineering > bachelor's degree of engineering
 
-[2] SEP 2021-now
+[2] SEP 2021-Now
 
 Northwest University > Chemistry and Materials Science > master degree in engineering
 
