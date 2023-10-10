@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year graduate student from School of Chemistry & Materials Science， [Northwest University (China)](https://english.nwu.edu.cn/), majoring in materials and chemical industry
 
-In the past year, I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) and focused on silicon-based semiconductor photoelectrocatalytic materials. I hope to continue my research on semiconductors at the doctoral level.
+In the past year, I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) and focused on silicon-based semiconductor photoelectrocatalytic materials. I hope to continue my research on semiconductor materials at the doctoral level.
 
 Overview
 ======
