@@ -35,9 +35,8 @@ Thin film deposition<br>
 Materials characterization<br>
 PEC measurement<br>
 DFT calculation<br>
-3D modeling and rendering<br>
+3D modeling<br>
 Color grading<br>
-Photojournalist<br>
 
 Language
 ------
