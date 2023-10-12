@@ -17,10 +17,10 @@ Overview
 
 Education
 ------
-[2] SEP 2021-Present<br>
+[1] SEP 2021-Present<br>
 [Northwest University (China)](https://english.nwu.edu.cn/) > Chemistry and Materials Science > master degree in engineering
 
-[1] SEP 2017-JUL 2021<br>
+[2] SEP 2017-JUL 2021<br>
 [Hefei University of Technology](https://www.hfut.edu.cn/) > Materials of Science and Engineering > bachelor's degree of engineering
 
 Publication
@@ -38,10 +38,14 @@ DFT calculation<br>
 3D modeling<br>
 Color grading<br>
 
-Language
+Languages
 ------
 Chinese<br>
 English(IELTS Band 7)
 
+Hobbies
+------
+3D animation<br>
+Photography
 
 [Email](lijiaru@stumail.nwu.edu.cn)/[Wechat](images/Wechat.png)
