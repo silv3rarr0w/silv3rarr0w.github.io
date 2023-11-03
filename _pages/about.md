@@ -27,7 +27,7 @@ Specialized courses: Functional Materials Physics and Chemistry, Progress of Mat
 
 Publication
 ------
-Nano research
+Nano research(accepted for publication)
 
 Pro Skills
 ------
