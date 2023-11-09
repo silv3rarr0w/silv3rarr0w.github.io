@@ -27,7 +27,8 @@ Specialized courses: Functional Materials Physics and Chemistry, Progress of Mat
 
 Publication
 ------
-Nano research(accepted for publication)
+Nano research:[Construction of Novel P-Si/TiO2/HfO2/MoS2/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting](https://www.sciopen.com/article/10.1007/s12274-023-6299-1)<br>
+A kind of advanced p-Si/TiO2/HfO2/MoS2/Pt photocathode system is firstly fabricated through a stepwise deposition method. The introduction of an ultra-thin HfO2 film not only effectively mitigates the corrosion of the silicon substrate, but also exhibits enhanced carrier transfer and suppressed carrier recombination.
 
 Pro Skills
 ------
