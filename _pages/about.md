@@ -12,7 +12,7 @@ I am a third-year graduate student from School of Chemistry & Materials Scienceï
 
 In the past year, I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) and focused on silicon-based semiconductor photoelectrocatalytic materials.<br>
 
-I hope to research and develop solar cells during my Ph.D. Copper indium gallium selenide (CIGS) is a promising thin film solar cell technology. However, its short-wavelength response is limited by the buffer layer and transparent conducting oxide layer. Quantum dot (QD) is expected to solve this problem by increasing the short-wavelength response. It works as a luminescent down-shifting layer: convert photons in the short-wavelength region and re-emits the photons at a longer wavelength region. In addition, QD have the advantages of adjustable band gap values, easy synthesis and high stability, which is expected to further improve the efficiency of CIGS solar cells.
+I hope to research and develop solar cells during my Ph.D. Copper indium gallium selenide (CIGS) is a promising thin film solar cell technology. However, its short-wavelength response is limited by the buffer layer and transparent conducting oxide layer. Quantum dot (QD) such as ZnS, InP, graphene..., is expected to solve this problem by increasing the short-wavelength response. It works as a luminescent down-shifting layer: convert photons in the short-wavelength region and re-emits the photons at a longer wavelength region. In addition, QD have the advantages of adjustable band gap values, easy synthesis and high stability, which is expected to further improve the efficiency of CIGS solar cells.
 
 Overview
 ======
