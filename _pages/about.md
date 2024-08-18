@@ -17,7 +17,7 @@ Overview
 
 Education
 ------
-[1] SEP. 2021-Present<br>
+[1] SEP. 2021-JUN. 2024<br>
 [Northwest University (China)](https://english.nwu.edu.cn/) > Chemistry and Materials Science > master degree in engineering<br>
 Specialized courses: Fundamentals of Materials Science, Physical Properties of Materials, Analysis and Testing Methods of Materials, etc.
 
