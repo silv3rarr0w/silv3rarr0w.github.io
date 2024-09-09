@@ -51,4 +51,7 @@ Hobbies
 3D animation production<br>
 Photography
 
-[Email](lijiaru@stumail.nwu.edu.cn)/[Wechat](images/Wechat.png)
+Contact
+------
+[Email](lijiaru@stumail.nwu.edu.cn)<br>
+[Wechat](images/Wechat.png)
