@@ -15,6 +15,16 @@ In the past year, I cooperated with School of Microelectronics in [Xidian Univer
 Overview
 ======
 
+Pro Skills
+------
+Materials science<br>
+Photoelectrochemistry<br>
+Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
+Materials characterization(SEM, XRD, XPS, TRPL, etc.)<br>
+PEC measurement<br>
+DFT calculation<br>
+3D modeling<br>
+
 Education
 ------
 [1] SEP. 2021-JUN. 2024<br>
@@ -30,16 +40,6 @@ Publication
 Jiaru Li, Jiayu Bai, Songjie Hu, Wenyu Yuan, Yuyu Bu, Xiaohui Guo. [Construction of Novel P-Si/TiO2/HfO2/MoS2/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023.<br>
 
 A kind of advanced p-Si/TiO2/HfO2/MoS2/Pt photocathode system is firstly fabricated through a stepwise deposition method. The best P-Si/TiO2/HfO2/MoS2/Pt photocathode demonstrates an initial potential of 0.5 V (vs. RHE) and a photocurrent density of -29 mA/cm2 at 0 V (vs. RHE). Through intensity modulated photocurrent spectroscopy and photoluminescence test, it is known that the enhanced water splitting performance is attributed to the optimized carrier transfer properties. The introduction of an ultra-thin HfO2 film not only effectively mitigates the corrosion of the silicon substrate, but also exhibits enhanced carrier transfer and suppressed carrier recombination. DFT calculations indicate the strong binding energy for Pt atoms on MoS2 layer, meaning that it should be energetically favorable for a Pt layer to form on MoS2 surfaces. Gibbs free energy and charge density difference also explained the enhanced catalytic properties of bi-component cocatalyst MoS2/Pt.
-
-Pro Skills
-------
-Materials science<br>
-Photoelectrochemistry<br>
-Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
-Materials characterization(SEM, XRD, XPS, TRPL, etc.)<br>
-PEC measurement<br>
-DFT calculation<br>
-3D modeling<br>
 
 Languages
 ------
