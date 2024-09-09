@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student from School of Chemistry & Materials Science， [Northwest University (China)](https://english.nwu.edu.cn/), majoring in materials and chemical industry.
+I am a postgraduate student from School of Chemistry & Materials Science, [Northwest University (China)](https://english.nwu.edu.cn/), majoring in materials and chemical industry.
 
 In the past year, I cooperated with School of Microelectronics in [Xidian University](https://en.xidian.edu.cn/) and focused on silicon-based semiconductor photoelectrocatalytic materials. I hope my doctoral research will focus on semiconductor and photoelectric materials.<br>
 
