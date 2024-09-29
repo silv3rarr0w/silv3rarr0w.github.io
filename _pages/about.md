@@ -18,9 +18,9 @@ Overview
 Pro Skills
 ------
 Materials science<br>
-Photoelectrochemistry<br>
-Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
 Materials characterization(SEM, XRD, XPS, TRPL, etc.)<br>
+Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
+Photoelectrochemistry<br>
 PEC measurement<br>
 DFT calculation<br>
 3D modeling<br>
@@ -37,7 +37,7 @@ Specialized courses: Functional Materials Physics and Chemistry, Progress of Mat
 
 Publication
 ------
-Jiaru Li, Jiayu Bai, Songjie Hu, Wenyu Yuan, Yuyu Bu, Xiaohui Guo. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023.<br>
+Jiaru Li, Jiayu Bai, Songjie Hu, Wenyu Yuan, Yuyu Bu, Xiaohui Guo. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023. [IF=9.5]<br>
 
 A kind of advanced p-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt photocathode system is firstly fabricated through a stepwise deposition method. The best P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt photocathode demonstrates an initial potential of 0.5 V (vs. RHE) and a photocurrent density of -29 mA/cm<sup>2</sup> at 0 V (vs. RHE). Through intensity modulated photocurrent spectroscopy and photoluminescence test, it is known that the enhanced water splitting performance is attributed to the optimized carrier transfer properties. The introduction of an ultra-thin HfO<sub>2</sub> film not only effectively mitigates the corrosion of the silicon substrate, but also exhibits enhanced carrier transfer and suppressed carrier recombination. DFT calculations indicate the strong binding energy for Pt atoms on MoS<sub>2</sub> layer, meaning that it should be energetically favorable for a Pt layer to form on MoS<sub>2</sub> surfaces. Gibbs free energy and charge density difference also explained the enhanced catalytic properties of bi-component cocatalyst MoS<sub>2</sub>/Pt.
 
