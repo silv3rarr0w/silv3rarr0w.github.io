@@ -18,7 +18,7 @@ Overview
 Pro Skills
 ------
 Materials science<br>
-Materials characterization(SEM, XRD, XPS, TRPL, etc.)<br>
+Materials characterization(SEM, TEM, XRD, XPS, TRPL, etc.)<br>
 Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
 Photoelectrochemistry<br>
 PEC measurement<br>
