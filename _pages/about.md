@@ -52,7 +52,7 @@ Awards and activities
 Scholarship for postgraduate studies (first class and second class)<br>
 Deputy director of the publicity department<br>
 The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder"<br>
-director of Interview-editorial department<br>
+Director of interview-editorial department<br>
 The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
 
 Hobbies
