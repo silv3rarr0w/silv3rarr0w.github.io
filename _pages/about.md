@@ -47,13 +47,13 @@ Languages
 Chinese<br>
 English(IELTS Band 7)
 
-Awards and Activities
-Scholarship for postgraduate studies (first class and second class)
-Deputy director of the publicity department
-The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder" (project number)
-director of Interview-editorial department
-The second prize of the 9th Sand Casting Competition of Hefei University of Technology
+Awards and activities
 ------
+Scholarship for postgraduate studies (first class and second class)<br>
+Deputy director of the publicity department<br>
+The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder" (project number)<br>
+director of Interview-editorial department<br>
+The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
 
 Hobbies
 ------
