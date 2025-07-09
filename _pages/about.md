@@ -49,19 +49,19 @@ DFT calculation<br>
 
 Resrarch Experience
 ------
-Sept. 2023-Present: n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer for water splitting.<br>
-Dec. 2023-Jun. 2024: production-scale PtNi alloy catalysts for efficient HER.<br>
-Jun. 2022-Sept. 2023: p-Si/TiO2/HfO2/MoS2/Pt photocathode for water splitting.<br>
-Nov. 2020-May 2021: Effect of high temperature aging on structure and properties of heat-resistant aluminum alloy wire.<br>
-Apr. 2018-Apr. 2019: Preparation technology of high performance AlN powder.<br>
+**Sept. 2023-Present: **n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer for water splitting.<br>
+**Dec. 2023-Jun. 2024: **production-scale PtNi alloy catalysts for efficient HER.<br>
+**Jun. 2022-Sept. 2023: **p-Si/TiO2/HfO2/MoS2/Pt photocathode for water splitting.<br>
+**Nov. 2020-May 2021: **Effect of high temperature aging on structure and properties of heat-resistant aluminum alloy wire.<br>
+**Apr. 2018-Apr. 2019: **Preparation technology of high performance AlN powder.<br>
 
 Awards and Activities
 ------
-Oct. 2021: Scholarship for postgraduate studies (first class).<br>
-Oct. 2021-Oct. 2022: Deputy director of the publicity department.<br>
-Apr. 2018-Apr. 2019: The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder"<br>
-Jun. 2018-Sep. 2019: Director of interview-editorial department<br>
-Dec. 2018: The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
+**Oct. 2021: **Scholarship for postgraduate studies (first class).<br>
+**Oct. 2021-Oct. 2022: **Deputy director of the publicity department.<br>
+**Apr. 2018-Apr. 2019: **The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder"<br>
+**Jun. 2018-Sep. 2019: **Director of interview-editorial department<br>
+**Dec. 2018: **The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
 
 Languages
 ------
