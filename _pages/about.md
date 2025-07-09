@@ -15,17 +15,6 @@ In the past year, I cooperated with School of Microelectronics in [Xidian Univer
 Overview
 ======
 
-Pro Skills
-------
-Materials science<br>
-Materials characterization(SEM, TEM, XRD, XPS, TRPL, etc.)<br>
-Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
-Photoelectrochemistry<br>
-Surface and interface analysis<br>
-PEC measurement<br>
-DFT calculation<br>
-3D modeling<br>
-
 Education
 ------
 [1] SEP. 2021-JUN. 2024<br>
@@ -36,24 +25,44 @@ Specialized courses: Fundamentals of Materials Science, Physical Properties of M
 [Hefei University of Technology](https://www.hfut.edu.cn/) > Materials of Science and Engineering > bachelor's degree of engineering<br>
 Specialized courses: Functional Materials Physics and Chemistry, Progress of Material Engineering, Principles and Application of Modern Analytical Instruments, etc.
 
-Publication
+Publications
 ------
-Jiaru Li, Jiayu Bai, Songjie Hu, Wenyu Yuan, Yuyu Bu, Xiaohui Guo. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023. [IF=9.5]<br>
+**Li J**, Bai J, Hu S, Yuan W, Bu Y, Guo X. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023. [IF=9.5]<br>
 
-A kind of advanced p-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt photocathode system is firstly fabricated through a stepwise deposition method. The best P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt photocathode demonstrates an initial potential of 0.5 V (vs. RHE) and a photocurrent density of -29 mA/cm<sup>2</sup> at 0 V (vs. RHE). Through intensity modulated photocurrent spectroscopy and photoluminescence test, it is known that the enhanced water splitting performance is attributed to the optimized carrier transfer properties. The introduction of an ultra-thin HfO<sub>2</sub> film not only effectively mitigates the corrosion of the silicon substrate, but also exhibits enhanced carrier transfer and suppressed carrier recombination. DFT calculations indicate the strong binding energy for Pt atoms on MoS<sub>2</sub> layer, meaning that it should be energetically favorable for a Pt layer to form on MoS<sub>2</sub> surfaces. Gibbs free energy and charge density difference also explained the enhanced catalytic properties of bi-component cocatalyst MoS<sub>2</sub>/Pt.
+**Li J**, Guo X, Bu Y. Development of Robustness n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer. International Journal of Hydrogen Energy. (In revision) (IF=8.17)<br>
 
-Awards and activities
+Yao H, **Li J** (co-first author), Guo X. “Production-scale PtNi alloy catalysts for efficient HER” (In progress)<br>
+
+Pro Skills
 ------
-Scholarship for postgraduate studies (first class and second class)<br>
-Deputy director of the publicity department<br>
-The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder"<br>
-Director of interview-editorial department<br>
-The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
+Materials science<br>
+Materials characterization(SEM, TEM, XRD, XPS, TRPL, etc.)<br>
+Photoelectrochemistry<br>
+Thin film deposition (ALD, Magnetron sputtering, Spin coating, Electrochemical deposition, etc.)<br>
+Surface and interface analysis<br>
+DFT calculation<br>
+3D modeling<br>
+
+Resrarch Experience
+------
+Sept. 2023-Present: n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer for water splitting.<br>
+Dec. 2023-Jun. 2024: production-scale PtNi alloy catalysts for efficient HER.<br>
+Jun. 2022-Sept. 2023: p-Si/TiO2/HfO2/MoS2/Pt photocathode for water splitting.<br>
+Nov. 2020-May 2021: Effect of high temperature aging on structure and properties of heat-resistant aluminum alloy wire.<br>
+Apr. 2018-Apr. 2019: Preparation technology of high performance AlN powder.<br>
+
+Awards and Activities
+------
+Oct. 2021: Scholarship for postgraduate studies (first class).<br>
+Oct. 2021-Oct. 2022: Deputy director of the publicity department.<br>
+Apr. 2018-Apr. 2019: The project of college students' innovation and entrepreneurship training program "Preparation Technology of High Performance AlN Powder"<br>
+Jun. 2018-Sep. 2019: Director of interview-editorial department<br>
+Dec. 2018: The second prize of the 9th Sand Casting Competition of Hefei University of Technology<br>
 
 Languages
 ------
 Chinese<br>
-English(IELTS Band 7)
+English(IELTS: 7.0)
 
 Hobbies
 ------
