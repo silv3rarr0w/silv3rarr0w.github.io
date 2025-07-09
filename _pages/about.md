@@ -25,6 +25,10 @@ Specialized courses: Fundamentals of Materials Science, Physical Properties of M
 [Hefei University of Technology](https://www.hfut.edu.cn/) > Materials of Science and Engineering > bachelor's degree of engineering<br>
 Specialized courses: Functional Materials Physics and Chemistry, Progress of Material Engineering, Principles and Application of Modern Analytical Instruments, etc.
 
+Research Interests
+------
+Photoelectrochemistry, surface and interface science, thin film deposition, semiconductor devices, solar cell
+
 Publications
 ------
 **Li J**, Bai J, Hu S, Yuan W, Bu Y, Guo X. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023. [IF=9.5]<br>
