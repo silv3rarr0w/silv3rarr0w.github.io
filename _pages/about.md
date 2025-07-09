@@ -35,7 +35,7 @@ Publications
 
 **Li J**, Guo X, Bu Y. Development of Robustness n-Si Photoanode by Al-doped BiSnO<sub>3</sub> Ultrathin Layer. International Journal of Hydrogen Energy. (In revision) (IF=8.17)<br>
 
-Yao H, **Li J** (co-first author), Guo X. “Production-scale PtNi alloy catalysts for efficient HER” (In progress)<br>
+Yao H, **Li J** (co-first author), Guo X. Production-scale PtNi alloy catalysts for efficient HER. (In progress)<br>
 
 Pro Skills
 ------
