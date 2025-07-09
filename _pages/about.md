@@ -66,7 +66,7 @@ Dec. 2018: The second prize of the 9th Sand Casting Competition of Hefei Univers
 Languages
 ------
 Chinese<br>
-English(IELTS: 7.0)
+English (IELTS: 7.0)
 
 Hobbies
 ------
