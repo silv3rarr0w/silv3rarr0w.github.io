@@ -33,7 +33,7 @@ Publications
 ------
 **Li J**, Bai J, Hu S, Yuan W, Bu Y, Guo X. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2023. [IF=9.5]<br>
 
-**Li J**, Guo X, Bu Y. Development of Robustness n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer. International Journal of Hydrogen Energy. (In revision) (IF=8.17)<br>
+**Li J**, Guo X, Bu Y. Development of Robustness n-Si Photoanode by Al-doped BiSnO<sub>3</sub> Ultrathin Layer. International Journal of Hydrogen Energy. (In revision) (IF=8.17)<br>
 
 Yao H, **Li J** (co-first author), Guo X. “Production-scale PtNi alloy catalysts for efficient HER” (In progress)<br>
 
@@ -49,9 +49,9 @@ DFT calculation<br>
 
 Resrarch Experience
 ------
-**Sept. 2023-Present:** n-Si Photoanode by Al-doped BiSnO3 Ultrathin Layer for water splitting.<br>
+**Sept. 2023-Present:** n-Si Photoanode by Al-doped BiSnO<sub>3</sub> Ultrathin Layer for water splitting.<br>
 **Dec. 2023-Jun. 2024:** production-scale PtNi alloy catalysts for efficient HER.<br>
-**Jun. 2022-Sept. 2023:** p-Si/TiO2/HfO2/MoS2/Pt photocathode for water splitting.<br>
+**Jun. 2022-Sept. 2023:** p-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt photocathode for water splitting.<br>
 **Nov. 2020-May 2021:** Effect of high temperature aging on structure and properties of heat-resistant aluminum alloy wire.<br>
 **Apr. 2018-Apr. 2019:** Preparation technology of high performance AlN powder.<br>
 
