@@ -33,7 +33,7 @@ Publications
 ------
 **Li J**, Bai J, Hu S, Yuan W, Bu Y, Guo X. [Construction of Novel P-Si/TiO<sub>2</sub>/HfO<sub>2</sub>/MoS<sub>2</sub>/Pt Hetero-Photocathode for Enhanced Photoelectrochemical Water Splitting.](https://link.springer.com/article/10.1007/s12274-023-6299-1) Nano Research. 2024. (IF=9.5)<br>
 
-**Li J**, Guo X, Bu Y. [Development of Robustness n-Si Photoanode by Al-doped BiSnO<sub>3</sub> Ultrathin Layer. International Journal of Hydrogen Energy.](https://www.sciencedirect.com/science/article/abs/pii/S0360319925038832) International Journal of Hydrogen Energy. 2025. (IF=8.17)<br>
+**Li J**, Li Q, Li W, Guo X, Bu Y. [Development of Robustness n-Si Photoanode by Al-doped BiSnO<sub>3</sub> Ultrathin Layer. International Journal of Hydrogen Energy.](https://www.sciencedirect.com/science/article/abs/pii/S0360319925038832) International Journal of Hydrogen Energy. 2025. (IF=8.17)<br>
 
 Yao H, **Li J** (co-first author), Guo X. Production-Scale PtNi Alloy Catalysts for Efficient HER. (In progress)<br>
 
